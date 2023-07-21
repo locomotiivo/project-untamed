@@ -62,6 +62,7 @@ Immunities = POISON
 Name = ???
 IconPosition = 9
 IsPseudoType = true
+IsSpecialType = true
 #-------------------------------
 [FIRE]
 Name = Fire

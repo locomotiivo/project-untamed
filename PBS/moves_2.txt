@@ -9198,3 +9198,15 @@ FunctionCode = DoubleDamageIfTargetHasChoiceItem
 Flags = CanProtect,CanMirrorMove
 Description = The user greedly coerces the foe into giving up their choice item using mind tricks.
 #-------------------------------
+[RETROROOM]
+Name = Retro Room
+Type = QMARKS
+Category = Status
+Accuracy = 0
+TotalPP = 5
+Target = BothSides
+Priority = -7
+FunctionCode = SummonsFourthRoom
+Flags = CanMirrorMove
+Description = The user breaks the 4th wall. Battle Mechanics are reverted to their Gen3 counterparts.
+#-------------------------------
